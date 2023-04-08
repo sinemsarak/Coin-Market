@@ -1,2 +1,2 @@
-Here is the link of the project:
+Here is the link of the repo:
 https://sinemsarak-coinmarket.netlify.app/
